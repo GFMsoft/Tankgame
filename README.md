@@ -1,8 +1,9 @@
 # Tankgame
 Ein kleines Spiel - Erstellt mit Autoit
-;#################################################################################
+
+
 DOKUMENTATION
-;#################################################################################
+
 ;~ Projektstart am 26.08.2013
 ; Ziel dieses Projekts war ein kleines Spiel, in dem man einen "Panzer" jagen und fangen muss.
 ; Irgendwann begann ich damit, dem Spiel einige rudimentäre AI-Ansätze hinzuzufügen.
@@ -34,9 +35,8 @@ DOKUMENTATION
 ;~ attack.wav
 
 
-;###################################################
 CONTROLS
-;###################################################
+
 
 ;~ up		-	Moves own Tank up / Bewegt eigenen Panzer nach Oben
 ;~ down 	-	Moves own Tank down / Bewegt eigenen Panzer nach unten
