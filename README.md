@@ -22,7 +22,7 @@ Befindet sich der feindliche Panzer innerhalb dieses Bereichs so wird er automat
 <br>
 Known BUGS - Bekannte Fehler<br>
 Bei Search2 kann es zu Bugs kommen. Es kann vorkommen, dass der Panzer nicht gefunden wird und ewig im falschen Bereich gesucht wird.<br>
-<br><
+<br>
 Es kann auch vorkommen, dass beide Panzer in einer Ecke hängen bleiben und nichts mehr passiert.<br>
 Ich habe diese Fehler nicht mehr behoben, weil ich nicht mehr am Projekt arbeite.<br>
 <br>
