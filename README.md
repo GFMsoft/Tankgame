@@ -31,21 +31,19 @@ Ich habe diese Fehler nicht mehr behoben, weil ich nicht mehr am Projekt arbeite
 Ich habe fast alle Soundfiles entfernt, weil ich die Lizenzbedingungen für die Soundfiles nicht kenne.
 Es müssten also folgende Dateien ins Scriptverzeichnis gelegt werden, damit das Spiel auf ein paar Töne hat.
 
-pong.wav
-ping.mp3
-attack.wav
+pong.wav<br>
+ping.mp3<br>
+attack.wav<br>
 
 
-CONTROLS
-
-
-up		-	Moves own Tank up / Bewegt eigenen Panzer nach Oben
-down 	-	Moves own Tank down / Bewegt eigenen Panzer nach unten
-left 	-	Moves own Tank left / Bewegt eigenen Panzer nach links
-right	-	Moves own Tank right / Bewegt eigenen Panzer nach rechts
-F1		-	Starts Seachpattern 1 / Startet Suchmuster 1
-F2		-	Starts Seachpattern 2 / Startet Suchmuster 2
-F3		-	Starts Seachpattern 3 / Startet Suchmuster 3
-F4		-	Fire missle /  Rakete abfeuern
-F5		-	Reload missle /  Rakete nachladen
-SPACE	-	Send radar ping / Radar aktivieren
+**CONTROLS**<br>
+up		-	Moves own Tank up / Bewegt eigenen Panzer nach Oben<br>
+down 	-	Moves own Tank down / Bewegt eigenen Panzer nach unten<br>
+left 	-	Moves own Tank left / Bewegt eigenen Panzer nach links<br>
+right	-	Moves own Tank right / Bewegt eigenen Panzer nach rechts<br>
+F1		-	Starts Seachpattern 1 / Startet Suchmuster 1<br>
+F2		-	Starts Seachpattern 2 / Startet Suchmuster 2<br>
+F3		-	Starts Seachpattern 3 / Startet Suchmuster 3<br>
+F4		-	Fire missle /  Rakete abfeuern<br>
+F5		-	Reload missle /  Rakete nachladen<br>
+SPACE	-	Send radar ping / Radar aktivieren<br>
